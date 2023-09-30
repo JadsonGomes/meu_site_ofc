@@ -1,0 +1,23 @@
+.main{ /*Configuração geral da página*/
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+.conteiner img {
+    border-radius: 50%;
+    height: 100%;
+
+}
+.top_bar{ /*Coficuração da barra superior Top Bar*/
+    background-color: rgba(71, 40, 40, 0.418);
+    color: rgb(255, 255, 255); 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
